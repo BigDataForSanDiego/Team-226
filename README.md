@@ -51,7 +51,7 @@ Objective: To create a comprehensive diabetes management app that offers real-ti
 Problem Statement: Diabetic patients often struggle with managing their condition due to the complexities of tracking all moving parts necessary for the disease. Existing solutions lack personalized feedback and cultural considerations, making it difficult for users to maintain consistent and effective diabetes management
 
 Solution Overview:
-GlucoPal: An app that uses a color-coded system (red, yellow, green) to provide real-time feedback on meal uploads and overall diabetes management. 
+GlucoPal: An app that uses a color-coded system (red, yellow, green) to provide real-time feedback on meal uploads. 
 Integration of various used inputs and predictive models to offer tailored recommendations for blood sugar management
 
 Key Features:
