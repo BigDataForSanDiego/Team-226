@@ -79,5 +79,5 @@ Enhanced quality of life for diabetic patients by making daily management more c
 
 #### Team Coordinator GitHub Username: `theaenache`
 
-#### Team Members `Natalia Garcia (@nataliagarccia), German Corea (@germancorea), Roger Dao (@rogerdao`
+#### Team Members `Thea Enache (@theaenache), Natalia Garcia (@nataliagarccia), German Corea (@germancorea), Roger Dao (@rogerdao)`
 
